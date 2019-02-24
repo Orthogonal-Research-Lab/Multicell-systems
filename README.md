@@ -10,7 +10,7 @@ Rather than growing in cell number through division, multicell systems grow thro
 
 
 
-## Square Oozer.   
+## Multicell Systems as a Species: Square Oozer.   
 
 ## Limitations.    
 One limitation of multicellular systems is that support networks must be formed when each cell in the community have differential access to resources from the outside. These support networks cross the edge between cells, so that this network form a route between all edge in the system. Let us suppose that our multicell systems are in equilibrium when crossings are limited to one per edge -- making two crossings on a random edge for the sake of convenience would perturb flow between compartments of the system. This mimicks gap junctions and other cell-cell communication mechanisms in biological systems. Thsi assumption allows us to adopt the idea of Euler complete paths to characterize these interaction networks.  
