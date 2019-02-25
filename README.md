@@ -22,7 +22,7 @@ An example of a cell lineage tree for a hexagonal multicell system. Click to enl
 An example of a cell lineage tree for a retangular multicell system. Click to enlarge.
 
 <p align="center">
-  <img width="700" height="350" src="https://github.com/Orthogonal-Research-Lab/Multicell-systems/blob/master/Sketches-and-Lineages/triangle-cell-lineage.png">
+  <img width="300" height="750" src="https://github.com/Orthogonal-Research-Lab/Multicell-systems/blob/master/Sketches-and-Lineages/triangle-cell-lineage.png">
 </p>
 
 An example of a cell lineage tree for a triangular multicell system. Click to enlarge.
