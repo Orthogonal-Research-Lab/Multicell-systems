@@ -32,7 +32,7 @@ To illustrate how multicellular systems can behave as organisms, we can look to 
 
 
 <p align="center">
-  <img width="700" height="350" src="https://user-images.githubusercontent.com/38323286/53359628-0bf30980-38f9-11e9-9b8f-d435788fa098.png">
+  <img width="450" height="450" src="https://user-images.githubusercontent.com/38323286/53359628-0bf30980-38f9-11e9-9b8f-d435788fa098.png">
 </p>
 
 Cartoon demonstrating the principle of organismal design as a minimization of flows. A: effects of Newtonian environmental parameters (e.g. gravity, resistance) on animal morphology (a Square oozer* used for illustration purposes), B: changes in shape to morphology of the Square oozer over time. C: changes in flows inside Square oozer over time from laminar to turbulent to something resembling a vasculature. Adapted from figures and text in [9].
