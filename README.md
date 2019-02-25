@@ -9,7 +9,23 @@ Rather than growing in cell number through division, multicell systems grow thro
 
 ## Examples of the Multicell System Developmental Process.  
 
+<p align="center">
+  <img width="700" height="350" src="https://github.com/Orthogonal-Research-Lab/Multicell-systems/blob/master/Sketches-and-Lineages/hexagonal-cell-lineage.PNG">
+</p>
 
+An example of a cell lineage tree for a hexagonal multicell system. Click to enlarge.
+
+<p align="center">
+  <img width="700" height="350" src="https://github.com/Orthogonal-Research-Lab/Multicell-systems/blob/master/Sketches-and-Lineages/rectangle-mixed-cell-lineage.PNG">
+</p>
+
+An example of a cell lineage tree for a retangular multicell system. Click to enlarge.
+
+<p align="center">
+  <img width="700" height="350" src="https://github.com/Orthogonal-Research-Lab/Multicell-systems/blob/master/Sketches-and-Lineages/triangle-cell-lineage.png">
+</p>
+
+An example of a cell lineage tree for a triangular multicell system. Click to enlarge.
 
 ## Multicell Systems as a Species: Square Oozer.   
 
