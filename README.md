@@ -1,13 +1,13 @@
 # Multicell systems: a compositional approach to multicellularity and embryogenesis
 
 ## Introduction to Multicell Systems.
-Multicell systems are polygonal networks that are meant to characterize the structure of biological multicellular systems. Multicell systems grow from a single shape (e.g. square) to a lattice of multiple cells of the same shape. This can be done by subdividing an existing shape, or by adding a single shape with the same number of size along the edge of the system. This provides us with analogue to simple biological multicellular systems.
+Multicell systems are polygonal networks that are meant to characterize the structure of biological multicellular systems. Multicell systems grow from a single shape (e.g. square) to a lattice of multiple cells of the same shape. This can be done by subdividing an existing shape, or by adding a single shape with the same number of size along the edge of the system. This provides us with analogue to simple biological multicellular systems that can be the basis for developmental and evolutionary analyses.
 
 ## Multicell Systems as Compositional Constructs
-Multicell systems are also mathematical objects. We can use the concept of composition from category theory [1,2] to analyze each multicell system as they are developing.  
+Multicell systems are also mathematical objects. We can use the concept of composition from category theory [1,2] to analyze each multicell system as they are developing. 
 
 ## Euler Paths (Intercellular Connectivity) as Indicator of Modularity.   
-The conherence of a group of partitioned cells can be evaluated using an Euler completeness criterion [3]. For a group of cells to be Euler complete, a path must be able to traverse each edge only once. If the path is Euler incomplete (where the path is forced to miss an edge), that edge defines a new module in the multicell system.  
+The conherence of a group of partitioned cells can be evaluated using an Euler completeness criterion [3]. For a group of cells to be Euler complete, a path must be able to traverse each edge only once. If the path is Euler incomplete (where the path is forced to miss an edge), that edge defines a new module in the multicell system. The rationale for using Euler paths as an indicator of modularity is based on homeostatic regularity of intercellular signaling. All cell-cell junctions must have the same number of communication pathways to be considered part of the same functional unit (in this case, a single intercellular module). When this principle is violated, the site of the next division event defines the boundary between functional units. 
 
 ## Growth of a Multicell System.
 Rather than growing in cell number through division, multicell systems grow through the recursive partitioning of a space (two- or three-dimensional) using a _k_-D tree approach [4-9]. Mapping partition events to a lineage tree, a number of rules can be used to determine that relative size and asymmetry of each partition. Each round of division introduces the oppportunity to add cells to the system and transform the multicell phenotype. 
@@ -35,7 +35,7 @@ __Figure 2.__ An example of a cell lineage tree for a retangular multicell syste
 
 __Figure 3.__ An example of a cell lineage tree for a triangular multicell system. Derived modules are shaded in cross-hatch. Click to enlarge.
 
-The hexogonal and rectangular motifs reveal a phenomenon called fractal reproduction. Fractal reproduction resembles cloning in biological development, and are usually produced during rounds of cell proliferation.
+The hexogonal and rectangular motifs reveal a phenomenon called fractal reproduction. Fractal reproduction resembles cloning in biological development, and are usually produced during rounds of cell proliferation. 
 
 ## Multicell Systems as a Species: Square Oozer.   
 To illustrate how multicellular systems can behave as organisms, we can look to the pseudo-species _Quadratus exsudares_ (Square Oozer) as a thought experiment [10] to show how such systems might be shaped by their environment. Square oozer is a single-celled organism where cellular shape is modified by flows within the cell experiencing friction due to resistence to environmental forces. During behavior, the phenotype moves along the path or least resistance for both internal and extenal flows, resulting in a highly fluid phenotype that changes its overall shape and spatial orientation over time (Figure 4). Over thousands of generations, Square Oozer will tend to resemble pixellated versions of "lifelike" structures: animal vasculature, the root systems of plants, and branching axons of nervous systems. 
