@@ -13,22 +13,22 @@ This iterative process of _k_-D decomposition and functional evaluation results 
 We find that hexogonal motifs tend to preserve a single module, even as the multicell system grows in size. In the case of triangle motifs, Euler completeness can be preserved in two ways: by introducing a shape mutation (hexagon) to the system, or by shifting components around to rescue the phenotype by relocating structures that result from modularity in the previous developmental step. Using a rectangulat motif provides us with a result in between the hexogonal and tringular result. That is, symmetrical divisions tend to preserve a single module for increasingly larger numbers of cells, while asymmetrical divisions result in the creation of multiple modules simultaneously. Morevoer, the strategies used to rescue Euler completeness for triangular motifs do not neccessarily work with rectangular systems.  
 
 <p align="center">
-  <img width="963" height="720" src="https://github.com/Orthogonal-Research-Lab/Multicell-systems/blob/master/Sketches-and-Lineages/hexagonal-cell-lineage.PNG">
+  <img width="963" height="720" src="https://github.com/Orthogonal-Research-Lab/Multicell-systems/blob/master/Sketches-and-Lineages/hexagonal-cell-lineage.png">
 </p>
 
 An example of a cell lineage tree for a hexagonal multicell system. Click to enlarge.
 
 <p align="center">
-  <img width="956" height="718" src="https://github.com/Orthogonal-Research-Lab/Multicell-systems/blob/master/Sketches-and-Lineages/rectangle-mixed-cell-lineage.PNG">
+  <img width="956" height="718" src="https://github.com/Orthogonal-Research-Lab/Multicell-systems/blob/master/Sketches-and-Lineages/rectangle-mixed-cell-lineage.png">
 </p>
 
-An example of a cell lineage tree for a retangular multicell system. Click to enlarge.
+An example of a cell lineage tree for a retangular multicell system. Derived modules are shaded in cross-hatch. Click to enlarge.
 
 <p align="center">
-  <img width="758" height="717" src="https://github.com/Orthogonal-Research-Lab/Multicell-systems/blob/master/Sketches-and-Lineages/triangle-cell-lineage.png">
+  <img width="758" height="717" src="https://github.com/Orthogonal-Research-Lab/Multicell-systems/blob/master/Sketches-and-Lineages/triangular-cell-lineage.png">
 </p>
 
-An example of a cell lineage tree for a triangular multicell system. Click to enlarge.
+An example of a cell lineage tree for a triangular multicell system. Derived modules are shaded in cross-hatch. Click to enlarge.
 
 The hexogonal and rectangular motifs reveal a phenomenon called fractal reproduction. Fractal reproduction resembles cloning in biological development, and are usually produced during rounds of cell proliferation.
 
