@@ -8,6 +8,7 @@ The conherence of a group of partitioned cells can be evaluated using an Euler c
 Rather than growing in cell number through division, multicell systems grow through the recursive partitioning of a space (rectangle or oblinong sphere) using a _k_-D tree approach [2-7]. Mapping partition events to a lineage tree, a number of rules can be used to determine that relative size and asymmetry of each partition.  
 
 ## Examples of the Multicell System Developmental Process.  
+This iterative process of _k_-D decomposition and functional evaluation results in a lineage tree that provies information regarding the plausibility of each new pheontype. Two variables that significantly affects the shape of this tree and the functional evolution of developing multicell systems are the shape of individual cells and symmetry of division events. We evaluated there variables for three cell shapes: hexagon, rectangle, and triangle. For the hexagonal and triangle conditions, the cell size is kept constant with a periodic alignment. For the rectangular condition, asymmetrical cell divisions (one cell per round of division instead of two) result in cells  of varying size.
 
 <p align="center">
   <img width="700" height="350" src="https://github.com/Orthogonal-Research-Lab/Multicell-systems/blob/master/Sketches-and-Lineages/hexagonal-cell-lineage.PNG">
