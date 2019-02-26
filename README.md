@@ -10,25 +10,27 @@ Rather than growing in cell number through division, multicell systems grow thro
 ## Examples of the Multicell System Developmental Process.  
 This iterative process of _k_-D decomposition and functional evaluation results in a lineage tree that provies information regarding the plausibility of each new pheontype. Two variables that significantly affects the shape of this tree and the functional evolution of developing multicell systems are the shape of individual cells and symmetry of division events. We evaluated there variables for three cell shapes: hexagon, rectangle, and triangle. For the hexagonal and triangle conditions, the cell size is kept constant with a periodic alignment. For the rectangular condition, asymmetrical cell divisions (one cell per round of division instead of two) result in cells  of varying size.
 
-We find that hexogonal motifs tend to preserve a single module, even as the multicell system grows in size. In the case of triangle motifs, Euler completeness can be preserved in two ways: by introducing a shape mutation (hexagon) to the system, or by shifting components around to rescue the phenotype by relocating structures that result from modularity in the previous developmental step. Using a rectangulat motif provides us with a result in between the hexogonal and tringular result. That is, symmetrical divisions tend to preserve a single module for increasingly larger numbers of cells, while asymmetrical divisions result in the creation of multiple modules simultaneously. Morevoer, the strategies used to rescue Euler completeness for triangular motifs do not work with rectangular systems.  
+We find that hexogonal motifs tend to preserve a single module, even as the multicell system grows in size. In the case of triangle motifs, Euler completeness can be preserved in two ways: by introducing a shape mutation (hexagon) to the system, or by shifting components around to rescue the phenotype by relocating structures that result from modularity in the previous developmental step. Using a rectangulat motif provides us with a result in between the hexogonal and tringular result. That is, symmetrical divisions tend to preserve a single module for increasingly larger numbers of cells, while asymmetrical divisions result in the creation of multiple modules simultaneously. Morevoer, the strategies used to rescue Euler completeness for triangular motifs do not neccessarily work with rectangular systems.  
 
 <p align="center">
-  <img width="700" height="350" src="https://github.com/Orthogonal-Research-Lab/Multicell-systems/blob/master/Sketches-and-Lineages/hexagonal-cell-lineage.PNG">
+  <img width="963" height="720" src="https://github.com/Orthogonal-Research-Lab/Multicell-systems/blob/master/Sketches-and-Lineages/hexagonal-cell-lineage.PNG">
 </p>
 
 An example of a cell lineage tree for a hexagonal multicell system. Click to enlarge.
 
 <p align="center">
-  <img width="700" height="350" src="https://github.com/Orthogonal-Research-Lab/Multicell-systems/blob/master/Sketches-and-Lineages/rectangle-mixed-cell-lineage.PNG">
+  <img width="956" height="718" src="https://github.com/Orthogonal-Research-Lab/Multicell-systems/blob/master/Sketches-and-Lineages/rectangle-mixed-cell-lineage.PNG">
 </p>
 
 An example of a cell lineage tree for a retangular multicell system. Click to enlarge.
 
 <p align="center">
-  <img width="700" height="350" src="https://github.com/Orthogonal-Research-Lab/Multicell-systems/blob/master/Sketches-and-Lineages/triangle-cell-lineage.png">
+  <img width="758" height="717" src="https://github.com/Orthogonal-Research-Lab/Multicell-systems/blob/master/Sketches-and-Lineages/triangle-cell-lineage.png">
 </p>
 
 An example of a cell lineage tree for a triangular multicell system. Click to enlarge.
+
+The hexogonal and rectangular motifs reveal a phenomenon called fractal reproduction. Fractal reproduction resembles cloning in biological development, and are usually produced during rounds of cell proliferation.
 
 ## Multicell Systems as a Species: Square Oozer.   
 To illustrate how multicellular systems can behave as organisms, we can look to the pseudo-species _Quadratus exsudares_ (Square Oozer) as a thought experiment [8] to show how such systems might be shaped by their environment. Square oozer is a single-celled organism where cellular shape is modified by flows within the cell experiencing friction due to resistence to environmental forces.
